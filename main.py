@@ -2,6 +2,7 @@
 Programa de Rescate de Datos Críticos
 Simulación de una situación de emergencia tecnológica con ataque de ransomware
 Implementación usando Programación Orientada a Objetos (POO)
+holas cara de caballo
 """
 
 from typing import List, Dict, Set
